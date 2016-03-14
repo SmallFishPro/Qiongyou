@@ -31,9 +31,9 @@
         <RadioButton
             android:id="@+id/distination"
             android:layout_width="0dp"
-            android:button="@null"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:button="@null"
             android:text="@string/string_distination" />
 
         <RadioButton
@@ -41,6 +41,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:button="@null"
             android:text="@string/string_entertainment" />
 
         <RadioButton
@@ -48,6 +49,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:button="@null"
             android:text="@string/string_mine" />
     </RadioGroup>
 </LinearLayout>
