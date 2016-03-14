@@ -11,5 +11,22 @@ public class BaseActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_base);
+        initView();
+        loadData();
+
+    }
+
+    /**
+     * 初始化数据
+     */
+    public void loadData() {
+
+    }
+
+    /**
+     * 初始化视图
+     */
+    public void initView() {
+
     }
 }
