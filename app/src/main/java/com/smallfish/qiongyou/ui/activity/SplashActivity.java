@@ -5,6 +5,9 @@ import android.os.Bundle;
 
 import com.smallfish.qiongyou.R;
 
+/**
+ * 引导界面
+ */
 public class SplashActivity extends BaseActivity {
 
     @Override

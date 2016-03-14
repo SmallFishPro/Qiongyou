@@ -5,6 +5,9 @@ import android.os.Bundle;
 
 import com.smallfish.qiongyou.R;
 
+/**
+ * 主界面
+ */
 public class MainActivity extends BaseActivity {
 
     @Override

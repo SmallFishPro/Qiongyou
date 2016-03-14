@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Qiongyou</string>
+    <string name="string_firstpage">首页</string>
+    <string name="string_distination">目的地</string>
+    <string name="string_entertainment">当地娱乐</string>
+    <string name="string_mine">我的</string>
 </resources>
